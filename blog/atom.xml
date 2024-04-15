@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://taozenanqwq.github.io/blog</id>
+    <id>https://Taozenanqwq.github.io/blog</id>
     <title>KNIGHT Blog</title>
     <updated>2024-04-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://taozenanqwq.github.io/blog"/>
+    <link rel="alternate" href="https://Taozenanqwq.github.io/blog"/>
     <subtitle>KNIGHT Blog</subtitle>
-    <icon>https://taozenanqwq.github.io/img/favicon.ico</icon>
+    <icon>https://Taozenanqwq.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[2024-04-15记录]]></title>
-        <id>https://taozenanqwq.github.io/blog/24-4-15</id>
-        <link href="https://taozenanqwq.github.io/blog/24-4-15"/>
+        <id>https://Taozenanqwq.github.io/blog/24-4-15</id>
+        <link href="https://Taozenanqwq.github.io/blog/24-4-15"/>
         <updated>2024-04-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
