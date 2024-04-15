@@ -1,0 +1,42 @@
+---
+slug: /create-pattern/factory-method
+---
+
+### 概念
+
+将对象的创建与对象的应用解耦
+在对象应用时，通过抽象可以得到针对不同产品而言通用的行为，例如 react 和 vue 的组件都能够渲染，但是两者的渲染方式截然不同，可以通过将这些通用的行为抽象出来，
+让不同的对象各自实现这一行为，而在应用时就不需要考虑这些不同对象的区别，直接使用对应的方法进行使用，将不同对象具体的实现方式交给对应的工厂去负责（类似于不同种类的车都能够驾驶，但不同
+工厂生产出来的车具体的行驶动力是不同的，而这些对于用户是不重要的，用户只需要去驾驶，而驾驶的具体驱动方式让不同工厂各自实现）。
+
+### 代码
+
+假设用户希望有计算当前使用容器面积的能力，而容器有不同类型（圆形和方形）
+
+```typescript
+abstract class Container {
+  constructor() {}
+  getArea() {}
+}
+class Circle extends Container {
+  constructor(r) {
+    this.r = r
+  }
+  getArea() {
+    return Math.PI * this.r * this.r
+  }
+}
+class Square extends Container {
+  constructor(l, w) {
+    this.length = l
+    this.width = w
+  }
+  getArea() {
+    return this.length * this.width
+  }
+}
+
+//Application
+const container = new Circle() //根据不同场景判断使用的容器类型
+const area = container.getArea()
+```
