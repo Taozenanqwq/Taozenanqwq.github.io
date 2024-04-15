@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[526],{5709:e=>{e.exports=JSON.parse('{"title":"\u5b66\u4e60\u7b14\u8bb0","slug":"/intro","permalink":"/Tao-blog/note/intro","navigation":{"next":{"title":"\u8bbe\u8ba1\u6a21\u5f0f","permalink":"/Tao-blog/note/design-pattern"}}}')}}]);
