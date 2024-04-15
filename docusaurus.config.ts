@@ -2,8 +2,8 @@ import type { Config } from '@docusaurus/types'
 import type * as Preset from '@docusaurus/preset-classic'
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'KNIGHT',
+  tagline: 'Nothing is impossible to a willing heart',
   favicon: 'img/favicon.ico',
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -11,10 +11,8 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Taozenanqwq', // Usually your GitHub org/user name.
+  projectName: 'Tao-blog', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -49,7 +47,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'KNIGHT',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg'
