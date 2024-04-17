@@ -46,7 +46,10 @@ const sidebars: SidebarsConfig = {
             type: 'generated-index',
             slug: '/create-pattern'
           },
-          items: ['设计模式/创建型模式/工厂方法']
+          items: [
+            '设计模式/创建型模式/工厂方法',
+            '设计模式/创建型模式/抽象工厂'
+          ]
         },
         {
           type: 'category',
@@ -88,7 +91,7 @@ const sidebars: SidebarsConfig = {
         type: 'doc',
         id: 'fp/introduce'
       },
-      items: ['fp/test']
+      items: ['fp/简介', 'fp/声明式代码']
     }
   ],
   DL: [

@@ -1,19 +1,20 @@
 import type { Config } from '@docusaurus/types'
 import type * as Preset from '@docusaurus/preset-classic'
+import { themes as prismThemes } from 'prism-react-renderer'
 
 const config: Config = {
   title: 'KNIGHT',
   tagline: 'Nothing is impossible to a willing heart',
   favicon: 'img/favicon.ico',
   // Set the production url of your site here
-  url: 'https://taozenanqwq.github.io',
+  url: 'https://Taozenanqwq.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   organizationName: 'Taozenanqwq', // Usually your GitHub org/user name.
-  projectName: 'taozenanqwq.github.io', // Usually your repo name.
-  deploymentBranch: 'main',
+  projectName: 'Taozenanqwq.github.io', // Usually your repo name.
+  deploymentBranch: 'deployment',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -48,6 +49,23 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    prism: {
+      theme: prismThemes.nightOwlLight,
+      darkTheme: prismThemes.nightOwl,
+      defaultLanguage: 'typescript',
+      magicComments: [
+        // Remember to extend the default highlight class name as well!
+        {
+          className: 'theme-code-block-highlighted-line',
+          line: 'highlight-next-line',
+          block: { start: 'highlight-start', end: 'highlight-end' }
+        },
+        {
+          className: 'code-block-error-line',
+          line: 'error-next-line'
+        }
+      ]
+    },
     navbar: {
       title: 'KNIGHT',
       logo: {
