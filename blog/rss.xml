@@ -4,34 +4,88 @@
         <title>KNIGHT Blog</title>
         <link>https://Taozenanqwq.github.io/blog</link>
         <description>KNIGHT Blog</description>
-        <lastBuildDate>Mon, 15 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <item>
-            <title><![CDATA[2024-04-15记录]]></title>
-            <link>https://Taozenanqwq.github.io/blog/24-4-15</link>
-            <guid>https://Taozenanqwq.github.io/blog/24-4-15</guid>
+            <title><![CDATA[2024-04-17 记录]]></title>
+            <link>https://Taozenanqwq.github.io/blog/24-04-17</link>
+            <guid>https://Taozenanqwq.github.io/blog/24-04-17</guid>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[每日 Todo]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-17#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h4>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习函数式编程 ch6 和 ch7</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习一个设计模式</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习 React 源码</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->针对面试内容进行学习</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->整理面试表达</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024-04-16 记录]]></title>
+            <link>https://Taozenanqwq.github.io/blog/24-04-16</link>
+            <guid>https://Taozenanqwq.github.io/blog/24-04-16</guid>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[每日 Todo]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-16#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h4>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->featurehub 特征创建选项修改</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->argus 漏洞修复</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习设计模式抽象工厂模式</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习函数式编程</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习 React 源码</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->完成两个面试</li>
+</ul>
+<p>今天的工作和学习内容完成的比较好，由于花费了一些时间在站点的搭建上因此时间不够导致没有时间学习 React 源码，其余任务都顺利完成了</p>
+<p>在生活习惯方面相对来说做的比较差，主要原因在于：</p>
+<ul>
+<li>将任务放在下班回家后的时间，导致时间不充分，没有有效利用白天零碎时间完成阅读任务</li>
+<li>没有安排好时间按时休息，导致了没精神早上也起不来</li>
+</ul>
+<p>针对上述两个问题的解决方案是首先将阅读任务分散到白天的零碎时间中；其次到家后无论有什么事都要保证按时休息从而保证第二天有更好的精神，能够按时起床</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024-04-15 记录]]></title>
+            <link>https://Taozenanqwq.github.io/blog/24-04-15</link>
+            <guid>https://Taozenanqwq.github.io/blog/24-04-15</guid>
             <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-            <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <description><![CDATA[每日 Todo]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-15#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h4>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->搭建个人站点框架</li>
+</ul>
+<p>目前没有工作需求，因此更多的时间放在自身的学习上，主要工作内容包括：</p>
+<ul>
+<li>搭建搭了个站点的整体框架并部署到了 github pages</li>
+<li>新东方前端一面完成</li>
+</ul>
+<p>个人生活习惯部分相对做得较差，并没有完成每日的打卡，因此还是需要重点关注这一部分养成好的习惯按时完成打卡</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
