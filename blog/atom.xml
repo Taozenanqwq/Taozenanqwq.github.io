@@ -2,11 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Taozenanqwq.github.io/blog</id>
     <title>KNIGHT Blog</title>
-    <updated>2024-04-17T00:00:00.000Z</updated>
+    <updated>2024-04-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Taozenanqwq.github.io/blog"/>
     <subtitle>KNIGHT Blog</subtitle>
     <icon>https://Taozenanqwq.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024-04-19 记录]]></title>
+        <id>https://Taozenanqwq.github.io/blog/24-04-19</id>
+        <link href="https://Taozenanqwq.github.io/blog/24-04-19"/>
+        <updated>2024-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每日 Todo]]></summary>
+        <content type="html"><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-19#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h4>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习函数式编程</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习 vue 源码</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->复习面试题，准备今天面试</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->逛论坛、博客吸收技术知识</li>
+</ul>]]></content>
+        <author>
+            <name>陶泽南</name>
+            <uri>https://github.com/Taozenanqwq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-04-18 记录]]></title>
+        <id>https://Taozenanqwq.github.io/blog/24-04-18</id>
+        <link href="https://Taozenanqwq.github.io/blog/24-04-18"/>
+        <updated>2024-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每日 Todo]]></summary>
+        <content type="html"><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-18#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h4>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->继续准备面试，整理面试表述</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习函数式编程</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习 Vue 源码</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->准备实习分享内容</li>
+</ul>
+<p>在工作和学习方面，今天除了 Vue 源码的学习没有完成其他都完成了，主要原因还是时间不充分，需要想办法提升自己的学习效率。目前学习的东西还是偏基础，没有针对目前可能比较好的先进的概念进行学习，预计之后每天花半个小时左右逛论坛学习和了解一些别人分享的新内容。</p>
+<p>而在生活方面除了没有早起吃早餐外，其他都完成了，相比昨天有了进步，继续保持的同时还要在早起方面加油，规律自己的作息。</p>]]></content>
+        <author>
+            <name>陶泽南</name>
+            <uri>https://github.com/Taozenanqwq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024-04-17 记录]]></title>
         <id>https://Taozenanqwq.github.io/blog/24-04-17</id>
@@ -17,18 +71,20 @@
 <p>生活</p>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->阅读（半小时以上）</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->锻炼（20 分钟以上）</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
 </ul>
 <p>工作与学习</p>
 <ul class="contains-task-list containsTaskList_mC6p">
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习函数式编程 ch6 和 ch7</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习一个设计模式</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习函数式编程 ch6 和 ch7</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习一个设计模式</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习 React 源码</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->针对面试内容进行学习</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->针对面试内容进行学习</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->整理面试表达</li>
-</ul>]]></content>
+</ul>
+<p>工作与学习方面有两部分的内容没有完成，因为整体的学习时间无法完成这些任务，考虑减少每日的任务量</p>
+<p>在生活习惯方面，昨天完成了阅读与锻炼，但是还是没有按时睡觉与起床，因为税前总想在晚会手机导致晚睡并且白天起不来，考虑利用睡前的时间进行阅读，同时需要提升自控力保证每天按时休息。</p>]]></content>
         <author>
             <name>陶泽南</name>
             <uri>https://github.com/Taozenanqwq</uri>
