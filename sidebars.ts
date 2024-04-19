@@ -48,7 +48,8 @@ const sidebars: SidebarsConfig = {
           },
           items: [
             '设计模式/创建型模式/工厂方法',
-            '设计模式/创建型模式/抽象工厂'
+            '设计模式/创建型模式/抽象工厂',
+            '设计模式/创建型模式/生成器模式'
           ]
         },
         {
@@ -91,7 +92,7 @@ const sidebars: SidebarsConfig = {
         type: 'doc',
         id: 'fp/introduce'
       },
-      items: ['fp/简介', 'fp/声明式代码']
+      items: ['fp/简介', 'fp/声明式代码', 'fp/容器', 'fp/Monad']
     }
   ],
   DL: [
