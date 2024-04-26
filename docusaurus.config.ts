@@ -75,9 +75,21 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'studyNote',
+          sidebarId: 'CS',
           position: 'left',
-          label: '学习笔记'
+          label: '计算机基础'
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'FE',
+          position: 'left',
+          label: '前端'
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'BE',
+          position: 'left',
+          label: '后端'
         },
         {
           type: 'docSidebar',
