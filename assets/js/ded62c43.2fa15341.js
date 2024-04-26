@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[766],{3133:e=>{e.exports=JSON.parse('{"title":"\u540e\u7aef","slug":"/be","permalink":"/note/be","navigation":{"next":{"title":"placeholder","permalink":"/note/placeholder"}}}')}}]);

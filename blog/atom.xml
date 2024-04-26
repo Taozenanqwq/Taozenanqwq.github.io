@@ -2,11 +2,174 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Taozenanqwq.github.io/blog</id>
     <title>KNIGHT Blog</title>
-    <updated>2024-04-19T00:00:00.000Z</updated>
+    <updated>2024-04-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Taozenanqwq.github.io/blog"/>
     <subtitle>KNIGHT Blog</subtitle>
     <icon>https://Taozenanqwq.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024-04-26 记录]]></title>
+        <id>https://Taozenanqwq.github.io/blog/24-04-26</id>
+        <link href="https://Taozenanqwq.github.io/blog/24-04-26"/>
+        <updated>2024-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每日 Todo]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-26#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h3>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->给父母打电话</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->完成 react 核心源码学习</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习 next</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->开始准备毕业答辩</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->继续开发个人站点</li>
+</ul>]]></content>
+        <author>
+            <name>陶泽南</name>
+            <uri>https://github.com/Taozenanqwq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-04-25 记录]]></title>
+        <id>https://Taozenanqwq.github.io/blog/24-04-25</id>
+        <link href="https://Taozenanqwq.github.io/blog/24-04-25"/>
+        <updated>2024-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每日 Todo]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-25#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h3>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->给父母打电话</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习算法</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->面试</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习函数式编程</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->刷论坛与博客，写随笔</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->继续完成 react 核心源码学习</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="日记">日记<a href="https://taozenanqwq.github.io/blog/24-04-25#%E6%97%A5%E8%AE%B0" class="hash-link" aria-label="日记的直接链接" title="日记的直接链接">​</a></h3>
+<p>学习与工作方面，很好地完成了今天制定的学习任务，并且通过了面试！</p>
+<p>在生活方面虽然保持了锻炼和阅读，但是在作息和与父母打电话这两件事情上做的还是太差，需要逼迫自己去做到这两件事！另外就是在公司喝水不够多需要多喝水。</p>
+<p>除此之外今天开始写随笔了，只要内容是针对阅读论坛和博客时看到的知识点进行了总结，总之今后要养成把看到的、想到的东西通过自己总结提炼后记录下来的习惯，任何知识点、想法都可以</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="随笔">随笔<a href="https://taozenanqwq.github.io/blog/24-04-25#%E9%9A%8F%E7%AC%94" class="hash-link" aria-label="随笔的直接链接" title="随笔的直接链接">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="headless-组件库思想与-shadcn-的解决方案">headless 组件库思想与 shadcn 的解决方案<a href="https://taozenanqwq.github.io/blog/24-04-25#headless-%E7%BB%84%E4%BB%B6%E5%BA%93%E6%80%9D%E6%83%B3%E4%B8%8E-shadcn-%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88" class="hash-link" aria-label="headless 组件库思想与 shadcn 的解决方案的直接链接" title="headless 组件库思想与 shadcn 的解决方案的直接链接">​</a></h4>
+<p>在基于组件库进行开发时，有些时候会面临自定义样式难、修改现有组件成本高的问题，目前存在如下解决方案</p>
+<p><strong>headless 无样式组件库</strong></p>
+<p>headless 组件库的核心思想是只提供组件的整体逻辑，而不提供任何样式</p>
+<p>主要问题：所有样式都需要亲自完成，开发成本高；组件数量少</p>
+<p><strong>基于 headless 进一步封装的组件库</strong></p>
+<p>基于 headless 组件库存在的组件数量少的问题，很多公司基于 headless 的思想进行封装，产出了类似 radix ui 的组件库拥有更多的组件，但是样式开发问题依然存在很高的成本</p>
+<p><strong>shadcn</strong></p>
+<p>基于上述问题，shadcn 提出了解决方案，其核心思想如下：</p>
+<ul>
+<li>组件不作为包，而是直接安装到本地作为源码，从而方便定制与开发</li>
+<li>使用 tailwind 可以快速地进行样式的定制化开发</li>
+<li>使用 class-variance-authrity(cva)工具进行分化定制，充分利用 tailwindcss，专注于样式封装</li>
+</ul>
+<div class="language-typescript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#403f53;--prism-background-color:#FBFBFB"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-typescript codeBlock_bY9V thin-scrollbar" style="color:#403f53;background-color:#FBFBFB"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#403f53"><span class="token keyword" style="color:rgb(12, 150, 155)">import</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">{</span><span class="token plain"> cva </span><span class="token punctuation" style="color:rgb(153, 76, 195)">}</span><span class="token plain"> </span><span class="token keyword" style="color:rgb(12, 150, 155)">from</span><span class="token plain"> </span><span class="token string" style="color:rgb(72, 118, 214)">'class-variance-authority'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain"></span><span class="token comment" style="color:rgb(152, 159, 177);font-style:italic">// 第一个参数是预置css，无论哪个分支都会有。variants 变体详情则需要自己定制不同的样式，变体包括意图主体 intent，大小等等</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain"></span><span class="token keyword" style="color:rgb(12, 150, 155)">const</span><span class="token plain"> button </span><span class="token operator" style="color:rgb(12, 150, 155)">=</span><span class="token plain"> </span><span class="token function" style="color:rgb(153, 76, 195);font-style:italic">cva</span><span class="token punctuation" style="color:rgb(153, 76, 195)">(</span><span class="token punctuation" style="color:rgb(153, 76, 195)">[</span><span class="token string" style="color:rgb(72, 118, 214)">'font-semibold'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(72, 118, 214)">'border'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(72, 118, 214)">'rounded'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">]</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">  variants</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">    intent</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">      primary</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">[</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">        </span><span class="token string" style="color:rgb(72, 118, 214)">'bg-blue-500'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">        </span><span class="token string" style="color:rgb(72, 118, 214)">'text-white'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">        </span><span class="token string" style="color:rgb(72, 118, 214)">'border-transparent'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">        </span><span class="token string" style="color:rgb(72, 118, 214)">'hover:bg-blue-600'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">      </span><span class="token punctuation" style="color:rgb(153, 76, 195)">]</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">      secondary</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">[</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">        </span><span class="token string" style="color:rgb(72, 118, 214)">'bg-white'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">        </span><span class="token string" style="color:rgb(72, 118, 214)">'text-gray-800'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">        </span><span class="token string" style="color:rgb(72, 118, 214)">'border-gray-400'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">        </span><span class="token string" style="color:rgb(72, 118, 214)">'hover:bg-gray-100'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">      </span><span class="token punctuation" style="color:rgb(153, 76, 195)">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">    </span><span class="token punctuation" style="color:rgb(153, 76, 195)">}</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">    size</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">      small</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">[</span><span class="token string" style="color:rgb(72, 118, 214)">'text-sm'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(72, 118, 214)">'py-1'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(72, 118, 214)">'px-2'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">]</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">      medium</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">[</span><span class="token string" style="color:rgb(72, 118, 214)">'text-base'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(72, 118, 214)">'py-2'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(72, 118, 214)">'px-4'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">    </span><span class="token punctuation" style="color:rgb(153, 76, 195)">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">  </span><span class="token punctuation" style="color:rgb(153, 76, 195)">}</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain">  defaultVariants</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">{</span><span class="token plain"> intent</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(72, 118, 214)">'primary'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">,</span><span class="token plain"> size</span><span class="token operator" style="color:rgb(12, 150, 155)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(72, 118, 214)">'medium'</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(153, 76, 195)">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#403f53"><span class="token plain"></span><span class="token punctuation" style="color:rgb(153, 76, 195)">}</span><span class="token punctuation" style="color:rgb(153, 76, 195)">)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content>
+        <author>
+            <name>陶泽南</name>
+            <uri>https://github.com/Taozenanqwq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-04-24 记录]]></title>
+        <id>https://Taozenanqwq.github.io/blog/24-04-24</id>
+        <link href="https://Taozenanqwq.github.io/blog/24-04-24"/>
+        <updated>2024-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每日 Todo]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-24#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h3>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->锻炼（20 分钟以上）-</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习算法</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->准备面试</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->完成 react 核心源码学习</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->逛论坛和博客</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->了解 nextjs</li>
+</ul>
+<p>昨天很好的完成了工作和学习的内容，同时完成了面试，在面试过程中面试官提到了关联记忆的方法可以参考，考虑进一步优化个人站点结构，将学习的内容通过思维导图关联起来，并针对每个知识块绘制思维导图。</p>
+<p>在生活反面，阅读和锻炼基本上已经可以按计划进行，但是在作息方面还是不够好，需要有更强的自制力保证每天早点休息并且早点起床吃点早餐，继续加油！同时在公司时喝水有点少需要多喝点水。</p>]]></content>
+        <author>
+            <name>陶泽南</name>
+            <uri>https://github.com/Taozenanqwq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-04-23 记录]]></title>
+        <id>https://Taozenanqwq.github.io/blog/24-04-23</id>
+        <link href="https://Taozenanqwq.github.io/blog/24-04-23"/>
+        <updated>2024-04-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每日 Todo]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-23#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h3>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习算法</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->刷面试题</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->准备面试表述</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->准备串讲表述并完善文档</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习 React 核心源码</li>
+</ul>
+<p>今天在工作内容上没有完成面试的准备和串讲的准备，在时间的安排上不够好并且同时也存在效率上的不足</p>
+<p>在生活方面只完成了阅读任务，原因在于回家后比较晚不太想锻炼，同时也因此想多玩会导致休息比较晚，进而导致难以起床，因此考虑将锻炼时间放在公司，同时每天准时回家保证睡眠质量。另外从今天开始要注意好好护肤与养胃，改善自己身体状态。</p>]]></content>
+        <author>
+            <name>陶泽南</name>
+            <uri>https://github.com/Taozenanqwq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-04-22 记录]]></title>
+        <id>https://Taozenanqwq.github.io/blog/24-04-22</id>
+        <link href="https://Taozenanqwq.github.io/blog/24-04-22"/>
+        <updated>2024-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每日 Todo]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-22#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h3>
+<p>生活</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->阅读（半小时以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
+</ul>
+<p>工作与学习</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->完成新人分享内容</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->继续准备面试</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习震荡数组算法</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习 js 模块化发展过程</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习包管理器的发展过程</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习箭头函数与 reference type</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->逛论坛、博客吸收技术知识</li>
+</ul>
+<p>周末两天比较放松因此不做任何记录了，但是之后周末也要进行记录，保证自己好的生活习惯和节奏。</p>
+<p>今天比较好地完成了工作和学习内容，在生活习惯方面还是起的稍晚了一点，因此还是没有按时吃早饭，同时睡的还是有点晚，这样的作息会导致身体状况不够好，同时影响工作效率，需要注意并加以改进。</p>]]></content>
+        <author>
+            <name>陶泽南</name>
+            <uri>https://github.com/Taozenanqwq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024-04-19 记录]]></title>
         <id>https://Taozenanqwq.github.io/blog/24-04-19</id>
@@ -17,17 +180,18 @@
 <p>生活</p>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->阅读（半小时以上）</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->锻炼（20 分钟以上）</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->阅读（半小时以上）</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早睡</li>
 </ul>
 <p>工作与学习</p>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->学习函数式编程</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->学习 vue 源码</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->复习面试题，准备今天面试</li>
+<li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->复习面试题，准备今天面试</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->逛论坛、博客吸收技术知识</li>
-</ul>]]></content>
+</ul>
+<p>在工作与学习方面，由于时间问题有些部分没有完成，因为有两个面试同时还有一些工作会议导致时间不充分，但整体上还是花了很多时间去学习的，继续努力的同时养成每天逛论坛、博客的习惯</p>
+<p>在生活上昨天只做到了阅读其他都没做到，主原因在于早上有点赖床导致起不来床，而由于昨天是周五没有严格地限制自己所以熬夜了，这些地方需要改正，一定要养成好的生活习惯</p>]]></content>
         <author>
             <name>陶泽南</name>
             <uri>https://github.com/Taozenanqwq</uri>
@@ -67,7 +231,7 @@
         <link href="https://Taozenanqwq.github.io/blog/24-04-17"/>
         <updated>2024-04-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[每日 Todo]]></summary>
-        <content type="html"><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-17#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h4>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-17#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h3>
 <p>生活</p>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
@@ -96,7 +260,7 @@
         <link href="https://Taozenanqwq.github.io/blog/24-04-16"/>
         <updated>2024-04-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[每日 Todo]]></summary>
-        <content type="html"><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-16#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h4>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-16#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h3>
 <p>生活</p>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
@@ -131,7 +295,7 @@
         <link href="https://Taozenanqwq.github.io/blog/24-04-15"/>
         <updated>2024-04-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[每日 Todo]]></summary>
-        <content type="html"><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-15#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h4>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="每日-todo">每日 Todo<a href="https://taozenanqwq.github.io/blog/24-04-15#%E6%AF%8F%E6%97%A5-todo" class="hash-link" aria-label="每日 Todo的直接链接" title="每日 Todo的直接链接">​</a></h3>
 <p>生活</p>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->早餐</li>
